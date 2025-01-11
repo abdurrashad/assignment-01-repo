@@ -1,4 +1,6 @@
-
+.body-color{
+    background-color: rgb(222, 215, 203);
+}
 
 /* nav style */
 .nav-style{
@@ -150,7 +152,7 @@
 .dr-yunus{
     height: 256px;
     border-radius: 8px;
-    background-color: #eff0e7;
+    background-color: #FFFFFF;
     justify-content: space-around;
     margin-top: 70px;
 }
@@ -161,3 +163,47 @@
     gap: 10px;
 
 }
+/* Recent News style */
+.news{
+    height: 1406px;
+    margin: 0px 85px 30px 85px;
+    
+}
+.right-satelite{
+    display: flex;
+    height: 402px;
+    border-radius: 8px;
+    margin-top: 60px;
+    background-color: #FFFFFF;
+    align-items: center;
+    padding: 0 60px;
+}
+.satelite-img{
+    border-radius: 10px;
+}
+.satelite-btn{
+    height: 48px;
+    width: 139px;
+    background-color: #006A50;
+    border-radius: 8px;
+    padding: 13px 26px;
+    font-size: 16px;
+    margin-top: 20px;
+    border: none;
+}
+/* left img satelite */
+
+.left-satelite{
+    display: flex;
+    height: 402px;
+    border-radius: 8px;
+    margin-top: 50px;
+    background-color: #FFFFFF;
+    align-items: center;
+    padding: 0 60px;
+
+}
+.left-satelite-description{
+    margin: 0 0 0 40px;
+}
+
