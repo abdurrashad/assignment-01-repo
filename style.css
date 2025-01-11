@@ -110,25 +110,37 @@
 .vision-title{
     font-size: 22px;
     font-weight: 254px;
-    c
+
 }
 .vision-description{
     font-size: 16px;
     padding-top: 20px 0px 20px ;
 }
+.vision-b-description{
+    padding: 25px 0px;
+}
+
 .learn-more-btn{
     width: 122px;
     height: 41px;
-    font-size:             16px;
-    font-weight: ;
-    border-radius: 10px;
+    padding: 11px 20px;
+    border-radius: 8px;
 }
-.box1{
+.btn1{
     background-color: #5490F5;
 }
-.box2{
+.btn2{
     background-color: #09A15C;
 }
+.btn3{
+    background-color: #FFC239;
+}
+.box1{
+    background-color: #aec2e5;
+}
+.box2{
+    background-color: #9ddec1;
+}
 .box3{
-    background-color: #ffc239;
+    background-color: #f6e7c6;
 }
