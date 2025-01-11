@@ -1,0 +1,13 @@
+
+/* nav style */
+.nav-style{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+}
+.nav-title{
+    font-size: 32px;
+    font-weight: 222px;
+    color: black ;
+}
