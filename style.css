@@ -1,4 +1,5 @@
 
+
 /* nav style */
 .nav-style{
     display: flex;
@@ -10,4 +11,124 @@
     font-size: 32px;
     font-weight: 222px;
     color: black ;
+}
+.sign-style{
+    font-weight: 116px;
+    color: #006A50;
+}
+/* share  */
+.color-style{
+    color: #0E0E0E;
+    font-weight: bold;
+}
+.btn-style{
+   border-radius: 10px;
+}
+.vision-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.title{
+    font-size: 22px;
+    font-weight: bold;
+    color: #0E0E0E;
+    padding-top: 30px;
+}
+
+/* first-box style */
+.div-start{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #C6E4D6;
+    width: 90%;
+    height: 560px;
+    display: flex;
+    margin: 160px auto;
+    border-radius: 7px;
+}
+.new-start-box1{
+    height: 326px;
+    width: 34%;
+    margin-left: 5%;
+}
+.box1-title{
+    font-size: 56px;
+}
+.first-btn {
+    height: 56px;
+    width: 270px;
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: bold;
+}
+.new-start-box2{
+    padding-right: 59px;
+}
+/* pillars box style */
+.paillars-section{
+    margin: 0px 85px 30px 85px;
+}
+.pillars-box{
+    display: flex;
+    gap: 50px;
+   
+}
+.pillars{
+    height: 244px;
+    background-color: #F1F1F3;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.pillars-description{
+    font-size: 16px;
+    font-weight: 254px;
+    color: #0E0E0E;
+    padding-top: 36px;
+
+} 
+/* vision box style */
+
+.vision-section{
+    margin: 0px 85px 30px 85px;
+}
+.vision-box{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+}
+.vision{
+    height: 325px;
+    width: 411px;
+    padding: 30px;
+    border-radius: 10px;
+    gap: 40px;
+
+}
+.vision-title{
+    font-size: 22px;
+    font-weight: 254px;
+    c
+}
+.vision-description{
+    font-size: 16px;
+    padding-top: 20px 0px 20px ;
+}
+.learn-more-btn{
+    width: 122px;
+    height: 41px;
+    font-size:             16px;
+    font-weight: ;
+    border-radius: 10px;
+}
+.box1{
+    background-color: #5490F5;
+}
+.box2{
+    background-color: #09A15C;
+}
+.box3{
+    background-color: #ffc239;
 }
