@@ -197,7 +197,6 @@
 .sub-opinion{
     height: 320px;
     width: 98%;
-    padding-right: 20px;
     border-radius: 10px;
     background-color: #FFFFFF;
     align-items: center;
@@ -247,7 +246,7 @@ table{
 }
 .table-head{
     justify-content: start;
-    padding-right: 1180px;
+    padding-right: 1000px;
 }
 
 /* Recent News style */
@@ -332,10 +331,13 @@ table{
     height: 64px;
     width: 80%;
 }
+.donete{
+    padding-top: 70px;
+}
 .sub-input-donat{
     border-radius: 3px;
     background-color: #FFFFFF;
-    padding: 20px 500px;
+    padding: 20px 400px;
     margin-left: 270px;
     margin-top: 15px;
     border: none;
