@@ -246,7 +246,7 @@ table{
 }
 .table-head{
     justify-content: start;
-    padding-right: 1000px;
+    padding-right: 970px;
 }
 
 /* Recent News style */
@@ -332,13 +332,13 @@ table{
     width: 80%;
 }
 .donete{
-    padding-top: 70px;
+    padding-top: 150px;
 }
 .sub-input-donat{
     border-radius: 3px;
     background-color: #FFFFFF;
     padding: 20px 400px;
-    margin-left: 270px;
+    margin-left: 15px;
     margin-top: 15px;
     border: none;
 }
