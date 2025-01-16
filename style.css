@@ -246,7 +246,7 @@ table{
 }
 .table-head{
     justify-content: start;
-    padding-right: 970px;
+    padding-right: 1100px;
 }
 
 /* Recent News style */
@@ -328,22 +328,22 @@ table{
     background-color: #abcb4c;
 }
 .donate-input{
+    padding-top: 20px;
+    padding-left: 190px;
     height: 64px;
     width: 80%;
 }
 .donete{
-    padding-top: 150px;
+    padding-top: 50px;
 }
 .sub-input-donat{
     border-radius: 3px;
     background-color: #FFFFFF;
     padding: 20px 400px;
-    margin-left: 15px;
-    margin-top: 15px;
     border: none;
 }
 .donate-btn{
-    margin-top: 40px;
+    margin-top: 20px; 
 }
 .donate-btn:hover{
     background-color: #5490F5;
